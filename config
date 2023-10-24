@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name=Cool
+	email=123456@qq.com
+[remote "origin"]
+	url = https://gitee.com/xiao-chenago/sky-take-out-front-end.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
