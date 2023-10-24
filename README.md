@@ -11,10 +11,10 @@ java后端，backend
 #### 软件架构
 软件架构说明
 前端技术：
-    1. Vue
-    2. Axios
-    3. Apache Echarts
-    4. 微信小程序
+    Vue
+    Axios
+    Apache Echarts
+    微信小程序
 后端技术：
     Springboot
     MybatisPlus
