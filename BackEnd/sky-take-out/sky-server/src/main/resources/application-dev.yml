@@ -1,8 +1,8 @@
 sky:
   alioss:
     endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: LTAI5tNG3NSXzKNEQXrtvBxU
-    access-key-secret: z8PxXLHZlGtlraJOcdvCQcGLGBEmZI
+    access-key-id: xxxxxxxxx
+    access-key-secret: xxxxxxxxx
     bucket-name: cool-take-out
 
   datasource:
