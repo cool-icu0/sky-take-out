@@ -12,18 +12,30 @@ java后端，backend
 软件架构说明
 前端技术：
     Vue
+
     Axios
+
     Apache Echarts
+
     微信小程序
+
 后端技术：
     Springboot
+
     MybatisPlus
+
     SpringCache+Redis
+
     SpringTask
+
     JWT
+
     WebSocket
+
     POI
+
     阿里云OSS
+
     Swagger
 
 
